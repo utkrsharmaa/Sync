@@ -1,16 +1,24 @@
 {
-  "name": "minibro",
-  "version": "1.0.0",
-  "description": "",
-  "main": "src/index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "discord.js": "^14.14.1",
     "dotenv": "^16.3.1"
-  }
+  },
+  "name": "sync",
+  "description": "Sync is a versatile Discord bot designed to bring advanced features to your server. From powerful moderation tools to unique commands like sniping and AFK management, Sync aims to elevate your server experience. This README provides essential information to get started with Sync.",
+  "version": "0.0.1",
+  "main": "src/index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/utkrsharmaa/Sync.git"
+  },
+  "author": "Utkarsh Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/utkrsharmaa/Sync/issues"
+  },
+  "homepage": "https://github.com/utkrsharmaa/Sync#readme"
 }
