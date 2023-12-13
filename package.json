@@ -1,11 +1,7 @@
 {
-  "dependencies": {
-    "discord.js": "^14.14.1",
-    "dotenv": "^16.3.1"
-  },
   "name": "sync",
-  "description": "Sync is a versatile Discord bot designed to bring advanced features to your server. From powerful moderation tools to unique commands like sniping and AFK management, Sync aims to elevate your server experience. This README provides essential information to get started with Sync.",
   "version": "0.0.1",
+  "description": "Multipurpose Discord Bot",
   "main": "src/index.js",
   "devDependencies": {},
   "scripts": {
@@ -17,8 +13,8 @@
   },
   "author": "Utkarsh Sharma",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/utkrsharmaa/Sync/issues"
-  },
-  "homepage": "https://github.com/utkrsharmaa/Sync#readme"
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1"
+  }
 }
